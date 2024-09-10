@@ -2,13 +2,13 @@ public class datamahasiswa {
 
     public static void main(String[] args) {
         System.out.println("Data Mahasiswa");
-        System.out.println("nama \t:");
-        System.out.println("nim \t:");
-        System.out.println("kelas \t:");
-        System.out.println("no absen:");
-        System.out.println("prodi \t:");
-        System.out.println("alamat \t:");
-        System.out.println("no hp \t:");
-        System.out.println("hobi \t:");
+        System.out.println("nama \t: Arya Bayu Samodra");
+        System.out.println("nim \t: 244107020162");
+        System.out.println("kelas \t: 1A");
+        System.out.println("no absen: 7");
+        System.out.println("prodi \t: D4 Teknik Informatika");
+        System.out.println("alamat \t: Jl. Candi Agung 2, No.36");
+        System.out.println("no hp \t: 082243880666");
+        System.out.println("hobi \t: Menggambar");
     }
 }
